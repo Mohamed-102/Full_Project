@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "location": "Agadir",
+    "level": "Intermediate Level",
+    "company_id": 1,
+    "description": "<p>We are searching for a talented Full Stack Developer to join our engineering team. You will work on both front-end and back-end features, ensuring smooth integration and performance across our web platform.</p>",
+    "salary": 75000,
+    "date": 1729681667114,
+    "category": "Developpement Web"
+  },
+  {
+    "title": "Mobile Developer",
+    "location": "Marrakech",
+    "level": "Junior Level",
+    "company_id": 2,
+    "description": "<p>We are hiring a Junior Mobile Developer to work on Android and iOS apps. You will collaborate with designers and senior engineers to build high-quality mobile experiences.</p>",
+    "salary": 60000,
+    "date": 1729681667114,
+    "category": "Developpement Mobile"
+  },
+  {
+    "title": "Data Engineer",
+    "location": "Rabat",
+    "level": "Senior Level",
+    "company_id": 3,
+    "description": "<p>We are seeking a Data Engineer to design, build, and optimize data pipelines. You will work with large datasets and cloud-based architectures.</p>",
+    "salary": 98000,
+    "date": 1729681667114,
+    "category": "Data Science"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "location": "Casablanca",
+    "level": "Intermediate Level",
+    "company_id": 4,
+    "description": "<p>We need a Cybersecurity Analyst to identify security risks, investigate threats, and improve our systems' overall protection.</p>",
+    "salary": 82000,
+    "date": 1729681667114,
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "DevOps Specialist",
+    "location": "Tangier",
+    "level": "Senior Level",
+    "company_id": 5,
+    "description": "<p>Join our infrastructure team as a DevOps Specialist. You will automate CI/CD pipelines and manage cloud deployments.</p>",
+    "salary": 105000,
+    "date": 1729681667114,
+    "category": "DevOps"
+  },
+  {
+    "title": "Network Administrator",
+    "location": "Marrakech",
+    "level": "Intermediate Level",
+    "company_id": 6,
+    "description": "<p>We are recruiting a Network Administrator to maintain and secure our network infrastructure while providing technical support to internal teams.</p>",
+    "salary": 70000,
+    "date": 1729681667114,
+    "category": "Reseaux"
+  },
+  {
+    "title": "Frontend Web Developer",
+    "location": "Agadir",
+    "level": "Junior Level",
+    "company_id": 2,
+    "description": "<p>We are looking for a Frontend Developer skilled in modern JavaScript frameworks. You will turn UI designs into functional interfaces.</p>",
+    "salary": 55000,
+    "date": 1729681667114,
+    "category": "Developpement Web"
+  },
+  {
+    "title": "Backend API Engineer",
+    "location": "Casablanca",
+    "level": "Senior Level",
+    "company_id": 1,
+    "description": "<p>We need a Backend Engineer to design and implement REST APIs, manage databases, and optimize server-side logic.</p>",
+    "salary": 95000,
+    "date": 1729681667114,
+    "category": "Developpement Web"
+  },
+  {
+    "title": "iOS Developer",
+    "location": "Rabat",
+    "level": "Intermediate Level",
+    "company_id": 3,
+    "description": "<p>We are hiring an iOS Developer to build intuitive and high-quality mobile applications using Swift.</p>",
+    "salary": 80000,
+    "date": 1729681667114,
+    "category": "Developpement Mobile"
+  },
+  {
+    "title": "Android Developer",
+    "location": "Tangier",
+    "level": "Junior Level",
+    "company_id": 5,
+    "description": "<p>Join our mobile team as an Android Developer. You will work with Kotlin, Android Studio, and modern mobile libraries.</p>",
+    "salary": 58000,
+    "date": 1729681667114,
+    "category": "Developpement Mobile"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "location": "Casablanca",
+    "level": "Senior Level",
+    "company_id": 4,
+    "description": "<p>We are seeking a Machine Learning Engineer to develop predictive models and scalable ML pipelines.</p>",
+    "salary": 110000,
+    "date": 1729681667114,
+    "category": "Data Science"
+  },
+  {
+    "title": "Data Analyst",
+    "location": "Marrakech",
+    "level": "Intermediate Level",
+    "company_id": 6,
+    "description": "<p>We are hiring a Data Analyst to interpret complex datasets and support decision-making with insightful reports.</p>",
+    "salary": 72000,
+    "date": 1729681667114,
+    "category": "Data Science"
+  },
+  {
+    "title": "Security Engineer",
+    "location": "Rabat",
+    "level": "Senior Level",
+    "company_id": 3,
+    "description": "<p>We need a Security Engineer to strengthen our security infrastructure and perform vulnerability assessments.</p>",
+    "salary": 102000,
+    "date": 1729681667114,
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "SOC Analyst",
+    "location": "Agadir",
+    "level": "Junior Level",
+    "company_id": 2,
+    "description": "<p>We are seeking a SOC Analyst to monitor security alerts, investigate anomalies, and escalate incidents.</p>",
+    "salary": 62000,
+    "date": 1729681667114,
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "location": "Casablanca",
+    "level": "Intermediate Level",
+    "company_id": 4,
+    "description": "<p>Join our DevOps team to manage cloud environments, automate deployments, and maintain monitoring systems.</p>",
+    "salary": 94000,
+    "date": 1729681667114,
+    "category": "DevOps"
+  },
+  {
+    "title": "System Administrator",
+    "location": "Tangier",
+    "level": "Intermediate Level",
+    "company_id": 5,
+    "description": "<p>We are looking for a System Administrator with experience in Linux servers, backups, and system automation.</p>",
+    "salary": 78000,
+    "date": 1729681667114,
+    "category": "DevOps"
+  },
+  {
+    "title": "Network Security Specialist",
+    "location": "Marrakech",
+    "level": "Senior Level",
+    "company_id": 6,
+    "description": "<p>We need a Network Security Specialist to secure infrastructure, analyze traffic, and implement firewall policies.</p>",
+    "salary": 99000,
+    "date": 1729681667114,
+    "category": "Reseaux"
+  },
+  {
+    "title": "Network Technician",
+    "location": "Rabat",
+    "level": "Junior Level",
+    "company_id": 3,
+    "description": "<p>We are hiring a Network Technician to support installations, troubleshoot issues, and maintain network devices.</p>",
+    "salary": 52000,
+    "date": 1729681667114,
+    "category": "Reseaux"
+  },
+  {
+    "title": "Web Designer",
+    "location": "Agadir",
+    "level": "Junior Level",
+    "company_id": 2,
+    "description": "<p>We are looking for a Web Designer to create modern UI layouts, design components, and improve usability.</p>",
+    "salary": 48000,
+    "date": 1729681667114,
+    "category": "Developpement Web"
+  },
+  {
+    "title": "React Developer",
+    "location": "Casablanca",
+    "level": "Intermediate Level",
+    "company_id": 4,
+    "description": "<p>We are searching for a React Developer to build dynamic and scalable user interfaces using modern React tools.</p>",
+    "salary": 82000,
+    "date": 1729681667114,
+    "category": "Developpement Web"
+  },
+  {
+    "title": "Flutter Developer",
+    "location": "Tangier",
+    "level": "Intermediate Level",
+    "company_id": 5,
+    "description": "<p>Join us as a Flutter Developer to build cross-platform mobile apps with pixel-perfect UI and strong performance.</p>",
+    "salary": 72000,
+    "date": 1729681667114,
+    "category": "Developpement Mobile"
+  },
+  {
+    "title": "AI Research Assistant",
+    "location": "Rabat",
+    "level": "Junior Level",
+    "company_id": 3,
+    "description": "<p>We are hiring an AI Research Assistant to support experiments, prepare datasets, and assist in prototyping ML models.</p>",
+    "salary": 65000,
+    "date": 1729681667114,
+    "category": "Data Science"
+  },
+  {
+    "title": "Cybersecurity Consultant",
+    "location": "Marrakech",
+    "level": "Senior Level",
+    "company_id": 6,
+    "description": "<p>We need a Cybersecurity Consultant to perform audits, provide recommendations, and help organizations improve defense strategies.</p>",
+    "salary": 115000,
+    "date": 1729681667114,
+    "category": "Cybersecurity"
+  }
+]
